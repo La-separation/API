@@ -1,0 +1,46 @@
+<?php
+function gwc_coupable_bas_min_14_ba($code){switch($code){
+case'baiiiiaoiiaiia':return array('verifications');
+case'baiaiiaoiiaiia':return array('verifications');
+case'baiiiaaoiiaiia':return array('verifications');
+case'baiaiaaoiiaiia':return array('verifications');
+case'baiiiiaoaiaiia':return array('verifications');
+case'baiaiiaoaiaiia':return array('verifications');
+case'baiiiaaoaiaiia':return array('verifications');
+case'baiaiaaoaiaiia':return array('verifications');
+case'baiiiiaoiaaiia':return array('verifications');
+case'baiaiiaoiaaiia':return array('verifications');
+case'baiiiaaoiaaiia':return array('verifications');
+case'baiaiaaoiaaiia':return array('verifications');
+case'baiiiiaoaaaiia':return array('verifications');
+case'baiaiiaoaaaiia':return array('verifications');
+case'baiiiaaoaaaiia':return array('verifications');
+case'baiaiaaoaaaiia':return array('verifications');
+case'baaiiioiiiiaii':return array('vietnamien');
+case'baaaiioiiiiaii':return array('vietnamien');
+case'baaiiioiiiaaii':return array('vietnamien');
+case'baaaiioiiiaaii':return array('vietnamien');
+case'baiiaaiaoiiiia':return array('villeurbanne');
+case'baiiaoiaoiiiia':return array('villeurbanne');
+case'baaiaiaiiiaiii':return array('visiblement');
+case'baaaaiaiiiaiii':return array('visiblement');
+case'baaiaiaiiiaiia':return array('visiblement');
+case'baaaaiaiiiaiia':return array('visiblement');
+case'baaiiaioiiaiia':return array('vociferations');
+case'baaaiaioiiaiia':return array('vociferations');
+case'baaiiaioaiaiia':return array('vociferations');
+case'baaaiaioaiaiia':return array('vociferations');
+case'baaiiaioiaaiia':return array('vociferations');
+case'baaaiaioiaaiia':return array('vociferations');
+case'baaiiaioaaaiia':return array('vociferations');
+case'baaaiaioaaaiia':return array('vociferations');
+case'baiaiiiiiiaaii':return array('volumineux');
+case'baioiiiiiiaaii':return array('volumineux');
+case'baiaiiiaiiaaii':return array('volumineux');
+case'baioiiiaiiaaii':return array('volumineux');
+case'baiaiiiiiiaoii':return array('volumineux');
+case'baioiiiiiiaoii':return array('volumineux');
+case'baiaiiiaiiaoii':return array('volumineux');
+case'baioiiiaiiaoii':return array('volumineux');
+default: return array();}}
+?>

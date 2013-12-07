@@ -1,0 +1,39 @@
+<?php
+function gwc_centrale_7_BP($code){switch($code){
+case'BPAIBBB':return array('epaisse');
+case'BPAABAB':return array('epargne');
+case'BPATAAT':return array('epatant');
+case'BPAULBA':return array('epauler');
+case'BPAULBB':return array('epaules');
+case'BPIBIBA':return array('epicier');
+case'BPIAAAB':return array('epinard');
+case'BPIABUH':return array('epineux');
+case'BPIABLB':return array('epingle');
+case'BPIBBBB':return array('episode');
+case'BPBIATB':return array('epointe');
+case'BPBABBA':return array('eponger','sponsor');
+case'BPBQUBB':return array('epoques');
+case'BPBUBBA':return array('epouser');
+case'BPBUBBB':return array('epouses');
+case'BPABUVB':return array('epreuve','eprouve');
+case'BPUIBBA':return array('epuiser');
+case'BPUIBBB':return array('epuises');
+case'BPABITB':return array('opacite');
+case'BPBAAAT':return array('operant');
+case'BPBABBB':return array('operees');
+case'BPIAIBA':return array('opinion');
+case'BPPBBBB':return array('opposee','opposes');
+case'BPPBBBA':return array('opposer');
+case'BPTIBAB':return array('options');
+case'BPTIQUB':return array('optique');
+case'BPULBAT':return array('opulent');
+case'BPATIAL':return array('spatial');
+case'BPBAHBA':return array('speaker');
+case'BPBBIAL':return array('special');
+case'BPBBTAB':return array('spectre');
+case'BPHBABB':return array('spheres');
+case'BPIAALB':return array('spirale');
+case'BPIAITB':return array('spirite');
+case'BPBATIF':return array('sportif');
+default: return array();}}
+?>

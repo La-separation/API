@@ -1,0 +1,47 @@
+<?php
+function gwc_coupable_haut_maj_5_MA($code){switch($code){
+case'MAAAA':return array('macao','macon','macro','madre','mange','manne','maree','marge','marne','maroc','marre','masse','menee','mener','menes','merde','meres','messe','modes','monde','moore','morne');
+case'MACAA':return array('macao','macon','macro','masse','messe');
+case'MAAAC':return array('madre','mange','manne','maree','marge','marne','maroc','marre','masse','menee','menes','merde','meres','messe','modes','monde','moore','morne');
+case'MACIA':return array('mafia','magie','mefie');
+case'MAAIA':return array('magie','manie','maria','marie','marin','mario','media','merle','morin');
+case'MAAIC':return array('magie','manie','marie','merle');
+case'MACIC':return array('magie','mefie');
+case'MAIII':return array('main','maxi');
+case'MAIAA':return array('maine','mains','maire','major','melee','meler','meles','melon','moine','moins','moise');
+case'MAIAC':return array('maine','mains','maire','melee','meles','moine','moins','moise');
+case'MATAA':return array('major','mater','matra','meteo','metre','metro','motos');
+case'MAIIA':return array('malin','malle','mann','mans','mene','mono','moue');
+case'MAIIC':return array('malle','mans','mene','meuf','moue');
+case'MAITA':return array('malte','moite');
+case'MAITC':return array('malte','moite');
+case'MAMAA':return array('maman','memes');
+case'MAAAT':return array('manet','marat');
+case'MAACT':return array('manet');
+case'MAACA':return array('mange','maree','marge','masse','menee','mener','menes','meres','messe','modes');
+case'MAACC':return array('mange','maree','marge','masse','menee','menes','meres','messe','modes');
+case'MAAII':return array('mann','manu','mark','marx','mary','menu');
+case'MAAAI':return array('mardi','merci','moral');
+case'MACCA':return array('masse','messe');
+case'MACAC':return array('masse','messe');
+case'MACCC':return array('masse','messe');
+case'MATCA':return array('mater','meteo');
+case'MATIC':return array('matif','metis','motif');
+case'MATIA':return array('matin','metis');
+case'MAICA':return array('melee','meler','meles','moise');
+case'MAICC':return array('melee','meles','moise');
+case'MAMCA':return array('memes');
+case'MAMAC':return array('memes');
+case'MAMCC':return array('memes');
+case'MAACI':return array('merci');
+case'MATAI':return array('metal');
+case'MATAC':return array('metre','motos');
+case'MATTA':return array('mette');
+case'MATTC':return array('mette');
+case'MAIAI':return array('moisi');
+case'MAICI':return array('moisi');
+case'MAIIT':return array('mont');
+case'MAATA':return array('monte','morte','morts');
+case'MAATC':return array('monte','morte','morts');
+default: return array();}}
+?>

@@ -1,0 +1,41 @@
+<?php
+function gwc_coupable_bas_min_10_gi($code){switch($code){
+case'giaboiiiii':return array('giovanni');
+case'giaboiiiia':return array('giovanni');
+case'giaiiaaaaa':return array('glorieuses');
+case'giaiaaaaaa':return array('glorieuses');
+case'giaiiaoaaa':return array('glorieuses');
+case'giaiaaoaaa':return array('glorieuses');
+case'gioiaaaaii':return array('graisseux');
+case'gioaaaaaii':return array('graisseux');
+case'gioiaaaoii':return array('graisseux');
+case'gioaaaaoii':return array('graisseux');
+case'gioiiiiiia':return array('gramme');
+case'gioiiaiaaa':return array('grandiose');
+case'gioiioiaaa':return array('grandiose');
+case'gioiiaaaaa':return array('grandiose');
+case'gioiioaaaa':return array('grandiose');
+case'gioiiapaia':return array('grandpere');
+case'gioiiopaia':return array('grandpere');
+case'gioiiibaia':return array('granivore');
+case'gioiiabaia':return array('granivore');
+case'giopiiiqaa':return array('graphique');
+case'giopiiaqaa':return array('graphique');
+case'giopiiiqoa':return array('graphique');
+case'giopiiaqoa':return array('graphique');
+case'giopiiiaia':return array('graphiste');
+case'giopiiaaia':return array('graphiste');
+case'giopiiiaaa':return array('graphiste');
+case'giopiiaaaa':return array('graphiste');
+case'gioiiaaiai':return array('gratteciel');
+case'gioaiaaiai':return array('gratteciel');
+case'gioiaaaiai':return array('gratteciel');
+case'gioaaaaiai':return array('gratteciel');
+case'gioiiaaaai':return array('gratteciel');
+case'gioaiaaaai':return array('gratteciel');
+case'gioiaaaaai':return array('gratteciel');
+case'gioaaaaaai':return array('gratteciel');
+case'giobiiiaii':return array('gravillon');
+case'giobaiiaii':return array('gravillon');
+default: return array();}}
+?>

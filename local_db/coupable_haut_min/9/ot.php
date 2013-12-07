@@ -1,0 +1,45 @@
+<?php
+function gwc_coupable_haut_min_9_ot($code){switch($code){
+case'otoiiiomo':return array('atavisme');
+case'otomioiio':return array('atomique');
+case'ottoohooo':return array('attachees');
+case'ottooiioo':return array('attaquer','attaques');
+case'ottoiodoo':return array('atteindra','atteindre');
+case'ottoiotoo':return array('atteintes','attrister');
+case'ottoodoit':return array('attendait');
+case'ottoodoot':return array('attendant','attendent');
+case'ottoodooo':return array('attendons');
+case'ottoodoio':return array('attendrir');
+case'ottoodiio':return array('attendue','attendus');
+case'ottoototo':return array('attentats');
+case'ottootifo':return array('attentifs');
+case'ottootioo':return array('attention');
+case'ottitiido':return array('attitude');
+case'ottoootif':return array('attractif');
+case'ottoihiio':return array('attribue');
+case'ottoihiit':return array('attribut');
+case'ototioiio':return array('etatique');
+case'ototmoioo':return array('etatmajor');
+case'otoodiioo':return array('etendues');
+case'otoooollo':return array('eternelle');
+case'otoooiioo':return array('eternuer');
+case'othioiioo':return array('ethiques');
+case'othoioiio':return array('ethnique');
+case'otiooollo':return array('etincelle');
+case'otoooooto':return array('etonnante');
+case'otoiiffoo':return array('etouffer');
+case'otooooooo':return array('etrangere','etrangers');
+case'otooooloo':return array('etrangler');
+case'otooiodoo':return array('etreindre');
+case'otiidioot':return array('etudiant','etudient');
+case'otohilito':return array('stabilite');
+case'otooioioo':return array('stagiaire');
+case'otolioioo':return array('stalinien');
+case'otoiiioot':return array('stewart');
+case'otimiiloo':return array('stimuler');
+case'otooiiooo':return array('stockage');
+case'otoohholm':return array('stockholm');
+case'otootooio':return array('strategie');
+case'otiiooiio':return array('stupeur');
+default: return array();}}
+?>

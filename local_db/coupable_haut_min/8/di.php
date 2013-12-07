@@ -1,0 +1,44 @@
+<?php
+function gwc_coupable_haut_min_8_di($code){switch($code){
+case'diolooto':return array('dialecte');
+case'diomooto':return array('diamants');
+case'diomotoo':return array('diametre');
+case'dioooooo':return array('diapason','diaspora','discerne','disgrace','dispense','disperse','disposer','disposes');
+case'dioiiooo':return array('dickens');
+case'diotoioh':return array('dietrich');
+case'diffomoo':return array('diffamer');
+case'diffoooo':return array('differer');
+case'diffoomo':return array('difforme');
+case'diffiioo':return array('diffuse');
+case'dimoooho':return array('dimanche');
+case'dimioiio':return array('diminue');
+case'diolomoo':return array('diplomes');
+case'dioootoo':return array('directes');
+case'dioootif':return array('directif');
+case'dioioooo':return array('dirigees','dirigera');
+case'dioiooot':return array('dirigent');
+case'diooioot':return array('disaient');
+case'diooiolo':return array('disciple');
+case'dioooodo':return array('discorde');
+case'diooooto':return array('discrete','discrets');
+case'diooiito':return array('discute','dispute');
+case'diooooii':return array('disparu');
+case'diooiioo':return array('disques');
+case'diooiooo':return array('dissiper');
+case'dioooiio':return array('dissous');
+case'diotoooo':return array('distance');
+case'diotioot':return array('distinct');
+case'diotooit':return array('distrait');
+case'diotoiot':return array('district');
+case'diiiiooo':return array('divisee','diviser','divises');
+case'diiioooo':return array('divorce');
+case'diiiiomo':return array('dixieme');
+case'dizoiooo':return array('dizaines');
+case'diohooto':return array('djakarta');
+case'diiolito':return array('dualite');
+case'diihooii':return array('dubcek');
+case'diioiiii':return array('dupuy');
+case'diioiiol':return array('duquel');
+case'diioohlo':return array('durable');
+default: return array();}}
+?>

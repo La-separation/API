@@ -1,0 +1,43 @@
+<?php
+function gwc_centrale_13_PA($code){switch($code){
+case'PALBBATBLBBIB':return array('paleontologie');
+case'PALBBTIAIBAAB':return array('palestinienne');
+case'PAAABHUTIBTBB':return array('parachutistes');
+case'PAAALLBLBMBAT':return array('parallelement');
+case'PAALBMBATAIAB':return array('parlementaire');
+case'PAATIBIPAIBAT':return array('participaient');
+case'PAATIBIPATIBA':return array('participation');
+case'PAATIBIPBABAT':return array('participeront');
+case'PAATIBULAAITB':return array('particularite');
+case'PAATIBULIBABB':return array('particulieres');
+case'PAATIBLLBMBAT':return array('partiellement');
+case'PABBIBAABMBAT':return array('passionnement');
+case'PATBAFAMILIAB':return array('paterfamilias');
+case'PABALABLBMBAT':return array('prealablement');
+case'PABBIPITATIBA':return array('precipitation');
+case'PABBBBBBBBUAB':return array('predecesseurs');
+case'PABJUBIBIABLB':return array('prejudiciable');
+case'PABLIMIAAIABB':return array('preliminaires');
+case'PABMATUABMBAT':return array('prematurement');
+case'PABMBBITATIBA':return array('premeditation');
+case'PABBBBUPATIBA':return array('preoccupation');
+case'PABPAAATBIABB':return array('preparatoires');
+case'PABPBABBAAABB':return array('preponderance');
+case'PABBBAIPTIBAB':return array('prescriptions');
+case'PABBBATATIBAB':return array('presentations');
+case'PABBBBATIMBAT':return array('pressentiment');
+case'PABBTIBIBUBBB':return array('prestigieuses');
+case'PAIVATIBATIBA':return array('privatisation');
+case'PABBLBMATIQUB':return array('problematique');
+case'PABBHAIABMBAT':return array('prochainement');
+case'PABFBBBIBAABL':return array('professionnel');
+case'PABBAAMMATIBA':return array('programmation');
+case'PABBABBBIBTBB':return array('progressistes');
+case'PABLIFBAATIBA':return array('proliferation');
+case'PABABABIATIBA':return array('prononciation');
+case'PABPABAABIBTB':return array('propagandiste');
+case'PABPAIBTAIABB':return array('proprietaires');
+case'PABTABBAIBTBB':return array('protagonistes');
+case'PABTBBTATIBAB':return array('protestations');
+default: return array();}}
+?>

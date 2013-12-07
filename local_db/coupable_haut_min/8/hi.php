@@ -1,0 +1,42 @@
+<?php
+function gwc_coupable_haut_min_8_hi($code){switch($code){
+case'hioooitz':return array('biarritz');
+case'hiholoto':return array('bibelots');
+case'hidooooo':return array('bidonner');
+case'hioooimo':return array('bienaime');
+case'hioootoo':return array('bienetre');
+case'hioofoit':return array('bienfait');
+case'hioooooo':return array('bigarrer');
+case'hiioiiii':return array('bijoux');
+case'hiloiiii':return array('bileux');
+case'hiolooio':return array('biologie');
+case'hiomooio':return array('birmanie');
+case'hioootto':return array('biscotte');
+case'hiooiiit':return array('biscuit');
+case'hitiimoo':return array('bitumer');
+case'hitiiooo':return array('biturer');
+case'hizooooo':return array('bizarres');
+case'hiidooto':return array('budgets');
+case'hiiioooo':return array('buisson');
+case'hiiloooo':return array('bulgare');
+case'hiioiioo':return array('bunker','hugues');
+case'hiioooii':return array('bureau');
+case'hiiohioo':return array('burkina');
+case'hidoiiii':return array('hideux');
+case'hiodoiio':return array('hindoue');
+case'hiooiito':return array('hirsute');
+case'hiotoioo':return array('histoire','histrion');
+case'hiiitooo':return array('huitres');
+case'hiilotto':return array('hulotte');
+case'hiimoioo':return array('humaine','humains');
+case'hiimhloo':return array('humbles');
+case'hiimooto':return array('humecte');
+case'hiimoiio':return array('humeur','humour');
+case'hiioooot':return array('huppert');
+case'hiioooio':return array('hussein');
+case'hiiooito':return array('hussite');
+case'hiioiooo':return array('hygiene');
+case'hioooiio':return array('kiosque');
+case'hiiodooo':return array('kundera');
+default: return array();}}
+?>

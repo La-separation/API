@@ -1,0 +1,44 @@
+<?php
+function gwc_centrale_4_BA($code){switch($code){
+case'BABY':return array('baby');
+case'BABH':return array('back','cash');
+case'BAIB':return array('baie','brio','crie','cris','dais','eric','gris','sais');
+case'BAIL':return array('bail','gril');
+case'BAIA':return array('bain','brin','crin','gain','sain');
+case'BALB':return array('bale','sale');
+case'BALL':return array('ball','gall');
+case'BAAB':return array('banc','bang','bars','bras','cane','cars','dans','dard','gang','gard','gare','gars','gras','orne','sand','sang','sans');
+case'BABB':return array('base','cage','case','cree','croc','eros','gage','grec','gros','once','onde','ores','orge','sacs','sage','snob');
+case'BATH':return array('bath');
+case'BATI':return array('bati');
+case'BATB':return array('bats','date','gate');
+case'BAVB':return array('bave','cave');
+case'BAAI':return array('brai');
+case'BABF':return array('bref','sncf');
+case'BAUA':return array('brun');
+case'BAUT':return array('brut','saut');
+case'BABA':return array('caca','caen','crea','saga');
+case'BAFB':return array('cafe');
+case'BAHB':return array('cake','saxe');
+case'BAMB':return array('came','dame');
+case'BAMP':return array('camp');
+case'BAAL':return array('carl','oral','sarl');
+case'BAAA':return array('cran');
+case'BAUZ':return array('cruz');
+case'BATA':return array('data');
+case'BAAP':return array('drap');
+case'BAAY':return array('dray');
+case'BAUH':return array('eaux');
+case'BAVI':return array('envi');
+case'BALA':return array('gala');
+case'BAAT':return array('gant');
+case'BATT':return array('gatt');
+case'BAZA':return array('gaza');
+case'BAZB':return array('gaze','onze');
+case'BAAF':return array('graf');
+case'BAUB':return array('grue');
+case'BATF':return array('ortf');
+case'BAIT':return array('sait');
+case'BAUF':return array('sauf');
+default: return array();}}
+?>

@@ -1,0 +1,41 @@
+<?php
+function gwc_coupable_haut_min_12_ho($code){switch($code){
+case'hodioooooooo':return array('badigeonnage');
+case'holiiooioiio':return array('balkanique');
+case'hoooiooomoot':return array('bannissement');
+case'hooooiiomoot':return array('baraquement');
+case'hoohoiiilloo':return array('barbouiller');
+case'hoiimoootooo':return array('baumgartner');
+case'hooofioioioo':return array('beneficiaire');
+case'hooofioioodo':return array('beneficierde');
+case'homhoodomoot':return array('bombardement');
+case'hoiiddhioiio':return array('bouddhique');
+case'hoiiillooooo':return array('bouillonner');
+case'hoiiloooooio':return array('boulangerie');
+case'hoiiloiioodo':return array('boulevards');
+case'hoiiloiioooo':return array('bouleverse');
+case'hoiiooooioio':return array('bourgeoisie');
+case'hoiioomootoo':return array('bourgmestre');
+case'hoiioooooiio':return array('bourrasque');
+case'hoiiooooiiii':return array('bourreaux');
+case'hoiiooiilodo':return array('bousculade');
+case'hooodohoiioo':return array('brandebourg');
+case'hoozzoiiillo':return array('brazzaville');
+case'hoodoiiilloo':return array('bredouiller');
+case'hoitoooioiio':return array('britannique');
+case'hoiitolomoot':return array('brutalement');
+case'hoiiiiolloio':return array('bruxellois');
+case'hohitiiolloo':return array('habituelles');
+case'hoomooioiiii':return array('harmonieux');
+case'hoiitdofoomo':return array('hautdeforme');
+case'hohdomodoioo':return array('hebdomadaire');
+case'holioootoooo':return array('helicopteres');
+case'holiiotioiio':return array('helvetique');
+case'hoooditoiooo':return array('hereditaires');
+case'holliiiiiood':return array('hollywood');
+case'hooooohilito':return array('honorabilite');
+case'hoolioooiomo':return array('hooliganisme');
+case'hoooitoliooo':return array('hospitaliere','hospitaliers','hospitalises');
+case'hoiiioitiooo':return array('koweitiens');
+default: return array();}}
+?>

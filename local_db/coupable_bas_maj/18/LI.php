@@ -1,0 +1,43 @@
+<?php
+function gwc_coupable_bas_maj_18_LI($code){switch($code){
+case'LIILIIOIIIIILIIIIL':return array('californienne');
+case'LIIIIIIIIIIIOLIIIL':return array('camaraderie');
+case'LIIIIIIIIOIIIIIIOL':return array('campagnarde');
+case'LIIIIIIILIOIIIIOII':return array('capitalisation');
+case'LIIIIIIOILIIIOLIII':return array('caracterisent');
+case'LIIIIIILILIIIOLIII':return array('caracterisent');
+case'LIIIIIIIIVIILLOQOL':return array('carnavalesque');
+case'LIIIIIOIIIOIIIIQOL':return array('catastrophique');
+case'LIIIIIIIIOLVIOIOII':return array('champdevision');
+case'LIIIIIIIIIOIIIIIII':return array('championnat');
+case'LIIIIIIOLOOIIIOIII':return array('chardecombat');
+case'LIIIIIIOLLOIIIOIII':return array('chardecombat');
+case'LIIIIOOIIOIIIIILII':return array('chaudronnier');
+case'LIILIIIIIILIIILIII':return array('cheminement');
+case'LIIIIIIIOIIIIIIOII':return array('emancipation');
+case'LIIIIIIILIIIIIIOII':return array('emancipation');
+case'LIIIOIIIIIIIIOOLII':return array('embarrasser');
+case'LIIIOLIILIIIOOILII':return array('emberlificoter');
+case'LIIIOLIILIIILOILII':return array('emberlificoter');
+case'LIIIIIILIIIIIILIII':return array('eminemment');
+case'LIIOLIOIILIIILIIIO':return array('enseignements');
+case'LIIIIIIIIIILIIIIII':return array('entrainerait');
+case'LIIIIILIIILIILOIIO':return array('entrepreneurs');
+case'LIIIIILIILIIIILIII':return array('entretiennent');
+case'LIIIOLIOOLIIILIIIO':return array('etablissements');
+case'LILIIIILLLLIIILIII':return array('eternellement');
+case'LIIOLLLLIIIIIILIII':return array('excellemment');
+case'LIILLLLLIIIIIILIII':return array('excellemment');
+case'LIIOLIIIOIIIILLLLO':return array('exceptionnelles');
+case'LIILLIIIOIIIILLLLO':return array('exceptionnelles');
+case'LIIOOIIIIIIOIIILII':return array('excommunier');
+case'LIILOIIIIIIOIIILII':return array('excommunier');
+case'LIIOOIIOIOIIIIIOIL':return array('excursionniste');
+case'LIILOIIOIOIIIIIOIL':return array('excursionniste');
+case'LIIILIIIIIILIIIIIL':return array('experimental');
+case'LIIILIIIIIILIIILII':return array('experimenter');
+case'LIIIIILIIILIIILIII':return array('extremement');
+case'LIOLIIIILIOIIIIOII':return array('liberalisation');
+case'LIIILIIIILLIIILIII':return array('litteralement');
+default: return array();}}
+?>

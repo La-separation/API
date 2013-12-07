@@ -1,0 +1,42 @@
+<?php
+function gwc_coupable_haut_min_5_oi($code){switch($code){
+case'oidoo':return array('aider','aides');
+case'oioot':return array('aient','gigot','niant');
+case'oiolo':return array('aigle','sigle');
+case'oiooo':return array('aigre','ainee','aines','aires','aisee','aises','aisne','giron','niece','niger','piano','piece','piege','piger','pince','pires','riper','rires','risee','siege','siens','signe','singe','sinon','sirop');
+case'oiooi':return array('aigri','ainsi');
+case'oioii':return array('aigu','ajax','pieu');
+case'oiloo':return array('ailes','pilon');
+case'oillo':return array('aille');
+case'oimoo':return array('aimee','aimer','nimes','simon');
+case'oiiho':return array('aube','cuba','cube');
+case'oiioo':return array('auge','aune','aura','avec','axee','axes','cure','eure','euro','nuee','nues','ours','puce','puer','pure','purs','ruee','rues','rune','ruse','suer','sure','surs');
+case'oiilo':return array('aula','nuls');
+case'oiito':return array('auto','pute');
+case'oiiii':return array('aux','eux','guy','puy');
+case'oiiol':return array('aval','quel');
+case'oiioz':return array('avez','suez');
+case'oiiio':return array('avis','cuir','ouie','ouir','puis','rive','suie','suis');
+case'oihlo':return array('cibla','cible');
+case'oitoo':return array('citee','citer','cites','gitan','pitre','rites','sites');
+case'oitii':return array('city');
+case'oiiit':return array('cuit','nuit','suit');
+case'oiiil':return array('exil');
+case'oihot':return array('gibet');
+case'oiflo':return array('gifle');
+case'oiool':return array('giral','nigel');
+case'oiiot':return array('guet');
+case'oioio':return array('niais');
+case'oioif':return array('oisif');
+case'oiodo':return array('pieds');
+case'oioto':return array('piete','pinte','piste');
+case'oilot':return array('pilot');
+case'oitio':return array('pitie');
+case'oiill':return array('pull');
+case'oiioi':return array('quai','quoi');
+case'oioho':return array('riche');
+case'oiido':return array('rude');
+case'oitot':return array('sitot');
+case'oiihi':return array('subi');
+default: return array();}}
+?>

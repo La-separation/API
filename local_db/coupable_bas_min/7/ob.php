@@ -1,0 +1,43 @@
+<?php
+function gwc_coupable_bas_min_7_ob($code){switch($code){
+case'oboiiaa':return array('avance');
+case'oboiiai':return array('avarier');
+case'oboiaai':return array('avarier');
+case'oboioia':return array('avatars');
+case'oboaoia':return array('avatars');
+case'obaiiii':return array('avenir','avertir','avertit');
+case'obaiiai':return array('avenir','avertir','avertit','avorter');
+case'obaiiaa':return array('avenue','avertis','avertit');
+case'obaiioa':return array('avenue');
+case'obaiaii':return array('avertir','avertit','aviron');
+case'obaiaai':return array('avertir','avertit','avorter');
+case'obaiiia':return array('avertis','avertit','avoine');
+case'obaiaia':return array('avertis','avertit');
+case'obaiaaa':return array('avertis','avertit');
+case'obaagia':return array('aveugle');
+case'obaogia':return array('aveugle');
+case'obiaaaa':return array('avidede','avidite');
+case'obaaaaa':return array('avidede','avidite');
+case'obioaaa':return array('avidede','avidite');
+case'obaoaaa':return array('avidede','avidite');
+case'obiaaoa':return array('avidede');
+case'obaaaoa':return array('avidede');
+case'obioaoa':return array('avidede');
+case'obaoaoa':return array('avidede');
+case'obiaiia':return array('avidite','avions');
+case'obaaiia':return array('avidite','avions','avoine');
+case'obioiia':return array('avidite');
+case'obaoiia':return array('avidite');
+case'obiaaia':return array('avidite');
+case'obaaaia':return array('avidite');
+case'obioaia':return array('avidite');
+case'obaoaia':return array('avidite');
+case'obiaiaa':return array('avidite');
+case'obaaiaa':return array('avidite');
+case'obioiaa':return array('avidite');
+case'obaoiaa':return array('avidite');
+case'obiiaii':return array('aviron');
+case'obaaoia':return array('avocats');
+case'obaaoaa':return array('avocats');
+default: return array();}}
+?>

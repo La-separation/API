@@ -1,0 +1,44 @@
+<?php
+function gwc_centrale_14_IA($code){switch($code){
+case'IABBABITIBAABL':return array('inconditionnel');
+case'IABBAAAIBBAABB':return array('inconnaissance');
+case'IABBATBUAAABLB':return array('incontournable');
+case'IABBBHIFFAABLB':return array('indechiffrable');
+case'IABBAIABLBMBAT':return array('indeniablement');
+case'IABBPBABAMMBAT':return array('independamment');
+case'IABIFFBABMMBAT':return array('indifferemment');
+case'IABIBPBABABLBB':return array('indispensables');
+case'IABIVIBUALIBTB':return array('individualiste');
+case'IABIVIBIBILITB':return array('indivisibilite');
+case'IABUBTAIALIBBB':return array('industrialises');
+case'IABVITABLBMBAT':return array('inevitablement');
+case'IAFLATIBAAIBTB':return array('inflationniste');
+case'IAFBAMATIBIBAB':return array('informaticiens');
+case'IAFAABTAUBTUAB':return array('infrastructure');
+case'IAIATBLLIBIBLB':return array('inintelligible');
+case'IAJUAIBUBBMBAT':return array('injurieusement');
+case'IALABBABLBMBAT':return array('inlassablement');
+case'IABATIBFABTIBA':return array('insatisfaction');
+case'IABTAATAABMBAT':return array('instantanement');
+case'IABTITUTIBAABL':return array('institutionnel');
+case'IABUFFIBAMMBAT':return array('insuffisamment');
+case'IABUPPBATABLBB':return array('insupportables');
+case'IATBLLBBTUBLLB':return array('intellectuelle');
+case'IATBLLIBBATBIA':return array('intelligentsia');
+case'IATBABBPBABAAT':return array('interdependant');
+case'IATBALBBUTBUAB':return array('interlocuteurs');
+case'IATBAMBBIAIABB':return array('intermediaires');
+case'IATBAAATIBAALB':return array('internationale');
+case'IATBAAATIBAAUH':return array('internationaux');
+case'IATBAPBLLATIBA':return array('interpellation');
+case'IATBAPABTATIBA':return array('interpretation');
+case'IATBAABBATIBAB':return array('interrogations');
+case'IATBAABBATBIAB':return array('interrogatoire');
+case'IATBABYABIBALB':return array('intersyndicale');
+case'IAVAAIABLBMBAT':return array('invariablement');
+case'IAVBBTIBATIBAB':return array('investigations');
+case'IAVBBTIBBBMBAT':return array('investissement');
+case'IAABBPBABABLBB':return array('irresponsables');
+case'IAABVBABABIBUH':return array('irreverencieux');
+default: return array();}}
+?>

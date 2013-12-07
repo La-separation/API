@@ -1,0 +1,47 @@
+<?php
+function gwc_centrale_5_BU($code){switch($code){
+case'BUIAB':return array('buire','cuire');
+case'BULBB':return array('bulbe');
+case'BULLB':return array('bulle');
+case'BUAIA':return array('burin');
+case'BUTBA':return array('buter','butor');
+case'BUTIA':return array('butin');
+case'BUTTB':return array('butte');
+case'BUBBA':return array('cuber','sucer');
+case'BUBBB':return array('cubes','suede');
+case'BUITB':return array('cuite','suite');
+case'BULBT':return array('culot');
+case'BULTB':return array('culte');
+case'BUMUL':return array('cumul');
+case'BUABA':return array('curer','durer','ourga');
+case'BUAIB':return array('curie');
+case'BUMAB':return array('dumas');
+case'BUABB':return array('dunes','duree','dures','ourse','sures');
+case'BUPBA':return array('duper','super');
+case'BUPUY':return array('dupuy');
+case'BUAAB':return array('duras');
+case'BUVBT':return array('duvet');
+case'BUBPB':return array('guepe');
+case'BUBAB':return array('guere','sucre');
+case'BUBUH':return array('gueux');
+case'BUIBB':return array('guide','guise','ouies');
+case'BUPTA':return array('gupta');
+case'BUATB':return array('ouate');
+case'BUBLI':return array('oubli');
+case'BUBBT':return array('ouest');
+case'BUAAL':return array('oural');
+case'BUTIL':return array('outil');
+case'BUTAB':return array('outre');
+case'BUVAB':return array('ouvre');
+case'BUAAT':return array('suant');
+case'BUAVB':return array('suave');
+case'BUBIB':return array('subie');
+case'BUBIA':return array('subir');
+case'BUBIT':return array('subit');
+case'BUBUA':return array('sueur');
+case'BUFFI':return array('suffi');
+case'BUIVI':return array('suivi');
+case'BUJBT':return array('sujet');
+case'BUABI':return array('surgi');
+default: return array();}}
+?>

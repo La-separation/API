@@ -1,0 +1,43 @@
+<?php
+function gwc_coupable_bas_min_8_ja($code){switch($code){
+case'jaoiiiia':return array('jeanne');
+case'jaiaiiia':return array('jerome');
+case'jaiiaiii':return array('jettent');
+case'jaaiaiii':return array('jettent');
+case'jaiaaiii':return array('jettent');
+case'jaaaaiii':return array('jettent');
+case'jaiiaiia':return array('jettent','juliette');
+case'jaaiaiia':return array('jettent','justifie');
+case'jaiaaiia':return array('jettent','juliette');
+case'jaaaaiia':return array('jettent','justifie');
+case'jaggiiig':return array('jogging');
+case'jaggaiig':return array('jogging');
+case'jaiiiaia':return array('joindre');
+case'jaaiiaia':return array('joindre');
+case'jaiiioia':return array('joindre');
+case'jaaiioia':return array('joindre');
+case'jaaiiioi':return array('journal');
+case'jaoiiioi':return array('journal');
+case'jaaiiiaa':return array('journee','justifie');
+case'jaoiiiaa':return array('journee');
+case'jagaoiii':return array('jugeant');
+case'jagaoiia':return array('jugeant');
+case'jaiiaaia':return array('juliette');
+case'jaiaaaia':return array('juliette');
+case'jaiiaiaa':return array('juliette','juristes');
+case'jaiaaiaa':return array('juliette','juristes');
+case'jaiiaaaa':return array('juliette','juristes');
+case'jaiaaaaa':return array('juliette','juristes');
+case'jaiiioii':return array('jullian');
+case'jaiiaoii':return array('jullian');
+case'jaiiiaoa':return array('jumeau');
+case'jaiiiaoo':return array('jumeau');
+case'jaaiaaaa':return array('justesse');
+case'jaaaaaaa':return array('justesse');
+case'jaaiiiia':return array('justifie');
+case'jaaaiiia':return array('justifie');
+case'jaaaiiaa':return array('justifie');
+case'jaaiaiaa':return array('justifie');
+case'jaaaaiaa':return array('justifie');
+default: return array();}}
+?>

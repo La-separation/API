@@ -1,0 +1,40 @@
+<?php
+function gwc_centrale_5_BI($code){switch($code){
+case'BIAIB':return array('biais');
+case'BIBLB':return array('bible','bigle','cible','sigle');
+case'BIBBA':return array('bidon','bison');
+case'BIBAB':return array('biens','biere','digne','siens','signe');
+case'BIJBU':return array('bijou');
+case'BILAA':return array('bilan');
+case'BILBA':return array('biler');
+case'BILLY':return array('billy');
+case'BIQUB':return array('bique');
+case'BIBBU':return array('bisou');
+case'BITBB':return array('bitos','citee','cites','dites','sites');
+case'BIBLA':return array('cibla');
+case'BIBUH':return array('cieux','dieux','sioux');
+case'BITBA':return array('citer');
+case'BIVIL':return array('civil');
+case'BIAAB':return array('diane');
+case'BIBBB':return array('diego','disse','siege');
+case'BIBTB':return array('diete');
+case'BIBUB':return array('digue');
+case'BIJBA':return array('dijon');
+case'BILUB':return array('dilue');
+case'BIABA':return array('diner','giron','sinon');
+case'BIABB':return array('dires','singe');
+case'BIVAA':return array('divan');
+case'BIVIA':return array('divin');
+case'BIBBT':return array('gibet','gigot');
+case'BIFLB':return array('gifle');
+case'BIAAL':return array('giral');
+case'BITAA':return array('gitan');
+case'BIVAB':return array('givre');
+case'BIBIF':return array('oisif');
+case'BIBAV':return array('sicav');
+case'BIMBA':return array('simon');
+case'BIABP':return array('sirop');
+case'BITBT':return array('sitot');
+case'BITUB':return array('situe');
+default: return array();}}
+?>

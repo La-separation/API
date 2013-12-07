@@ -1,0 +1,39 @@
+<?php
+function gwc_coupable_bas_min_10_ob($code){switch($code){
+case'oboiiaaiii':return array('avancent');
+case'oboiiaaiia':return array('avancent');
+case'oboiiiogaa':return array('avantages');
+case'oboiiaogaa':return array('avantages');
+case'oboiiiiaii':return array('avanttoit');
+case'oboiiaiaii':return array('avanttoit');
+case'oboiiiaaii':return array('avanttoit');
+case'oboiiaaaii':return array('avanttoit');
+case'oboiiiiaai':return array('avanttoit');
+case'oboiiaiaai':return array('avanttoit');
+case'oboiiiaaai':return array('avanttoit');
+case'oboiiaaaai':return array('avanttoit');
+case'oboiiiiaia':return array('avanttoit');
+case'oboiiaiaia':return array('avanttoit');
+case'oboiiiaaia':return array('avanttoit');
+case'oboiiaaaia':return array('avanttoit');
+case'oboiiiiaaa':return array('avanttoit');
+case'oboiiaiaaa':return array('avanttoit');
+case'oboiiiaaaa':return array('avanttoit');
+case'oboiiaaaaa':return array('avanttoit');
+case'obaiiiiiai':return array('avelinier');
+case'obaiaiiiai':return array('avelinier','avoisiner');
+case'obaiiiiaai':return array('avelinier');
+case'obaiaiiaai':return array('avelinier');
+case'obaiiiaiaa':return array('aventures');
+case'obaiiaaiaa':return array('aventures');
+case'obaiiioiaa':return array('aventures');
+case'obaiiaoiaa':return array('aventures');
+case'obaagioiii':return array('aveuglant');
+case'obaogioiii':return array('aveuglant');
+case'obaagioiia':return array('aveuglant');
+case'obaogioiia':return array('aveuglant');
+case'obaaaiiiai':return array('avoisiner');
+case'obaiaaiiai':return array('avoisiner');
+case'obaaaaiiai':return array('avoisiner');
+default: return array();}}
+?>

@@ -1,0 +1,43 @@
+<?php
+function gwc_centrale_9_TB($code){switch($code){
+case'TBHABIBAB':return array('tchadiens');
+case'TBBHAIQUB':return array('technique');
+case'TBLBBBPIB':return array('telecopie');
+case'TBLBFILMB':return array('telefilms');
+case'TBLBPHBAB':return array('telephone');
+case'TBLBBBBPB':return array('telescope');
+case'TBLBVIBBB':return array('televisee','televises');
+case'TBLLBMBAT':return array('tellement');
+case'TBLLBBQUB':return array('tellesque');
+case'TBMBAAIAB':return array('temeraire');
+case'TBMBIBABA':return array('temoigner');
+case'TBAAILLBB':return array('tenailles');
+case'TBABAABBB':return array('tendances');
+case'TBABABBBB':return array('tendresse');
+case'TBABBABUH':return array('tenebreux');
+case'TBAABBBBB':return array('tennessee');
+case'TBATABULB':return array('tentacule');
+case'TBATAIBAT':return array('tentaient');
+case'TBATATBUA':return array('tentateur');
+case'TBATATIBA':return array('tentation');
+case'TBATATIVB':return array('tentative');
+case'TBAMIAALB':return array('terminale');
+case'TBAMIAAUH':return array('terminaux');
+case'TBAABBTAB':return array('terrestre');
+case'TBAAIBLBB':return array('terribles');
+case'TBATIAIAB':return array('tertiaire');
+case'TBBTAMBAT':return array('testament');
+case'TBILBTTBB':return array('toilettes');
+case'TBLBAAABB':return array('tolerance');
+case'TBAABFIBA':return array('torrefier');
+case'TBAABATBB':return array('torrentde');
+case'TBATILLBA':return array('tortiller');
+case'TBUABIBAB':return array('tourbiere');
+case'TBUAIBTBB':return array('touristes');
+case'TBUAMBATB':return array('tourmente');
+case'TBUAABBBL':return array('tournesol');
+case'TBUBBAIAT':return array('toussaint');
+case'TBUTBFBIB':return array('toutefois');
+case'TBWABHIPB':return array('townships');
+default: return array();}}
+?>

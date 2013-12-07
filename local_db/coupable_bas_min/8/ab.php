@@ -1,0 +1,41 @@
+<?php
+function gwc_coupable_bas_min_8_ab($code){switch($code){
+case'abopaiai':return array('evaporer');
+case'aboaiaii':return array('evasion');
+case'aboaaaii':return array('evasion');
+case'abaiiiai':return array('eveiller');
+case'abaaiiai':return array('eveiller');
+case'abaiiiia':return array('evelyne');
+case'abaigiia':return array('evelyne');
+case'abaiqiia':return array('evelyne');
+case'abiaaiii':return array('evident');
+case'abaaaiii':return array('evident');
+case'abioaiii':return array('evident');
+case'abaoaiii':return array('evident');
+case'abiaaiia':return array('evident');
+case'abaaaiia':return array('evident');
+case'abioaiia':return array('evident');
+case'abaoaiia':return array('evident');
+case'abiiiaai':return array('evincer');
+case'abaiiaai':return array('evincer');
+case'abiioiii':return array('evitant');
+case'abaioiii':return array('evitant');
+case'abiaoiii':return array('evitant');
+case'abaaoiii':return array('evitant');
+case'abiioiia':return array('evitant');
+case'abaioiia':return array('evitant');
+case'abiaoiia':return array('evitant');
+case'abaaoiia':return array('evitant');
+case'abaqaoii':return array('evoquait');
+case'abaqooii':return array('evoquait');
+case'abaqaoai':return array('evoquait');
+case'abaqooai':return array('evoquait');
+case'abaqaoia':return array('evoquait');
+case'abaqooia':return array('evoquait');
+case'abaqaoaa':return array('evoquait');
+case'abaqooaa':return array('evoquait');
+case'abaqaaaa':return array('evoquees');
+case'abaqoaaa':return array('evoquees');
+case'abiagiia':return array('ivrogne');
+default: return array();}}
+?>

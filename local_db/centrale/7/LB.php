@@ -1,0 +1,41 @@
+<?php
+function gwc_centrale_7_LB($code){switch($code){
+case'LBABBAB':return array('leaders');
+case'LBABIAB':return array('leasing');
+case'LBBLBAB':return array('leclerc');
+case'LBBTBUA':return array('lecteur');
+case'LBBTUAB':return array('lecture');
+case'LBBALBB':return array('legales','locales');
+case'LBBBABB':return array('legende','legeres');
+case'LBBUMBB':return array('legumes');
+case'LBIPZIB':return array('leipzig');
+case'LBATBUA':return array('lenteur');
+case'LBBPBLB':return array('leopold');
+case'LBBTAAB':return array('leotard');
+case'LBBIABA':return array('lesiner');
+case'LBBBTHB':return array('lesotho');
+case'LBBBIVB':return array('lessive');
+case'LBTTABB':return array('lettres');
+case'LBUAABA':return array('leurrer');
+case'LBVBTBT':return array('levetot');
+case'LBHIBAL':return array('lexical');
+case'LBHIQUB':return array('lexique');
+case'LBZAABB':return array('lezarde');
+case'LBBIQUB':return array('logique');
+case'LBIBIAB':return array('loisirs');
+case'LBMBAAB':return array('lombard');
+case'LBABABB':return array('londres');
+case'LBABUBB':return array('longues');
+case'LBABUBT':return array('longuet');
+case'LBQUABB':return array('loquace');
+case'LBABAZB':return array('lorenzo');
+case'LBABABA':return array('lorgner');
+case'LBAIBAT':return array('lorient');
+case'LBABQUB':return array('lorsque');
+case'LBTBAIB':return array('loterie');
+case'LBUAABB':return array('louange');
+case'LBUPIBT':return array('loupiot');
+case'LBUABBB':return array('lourdes');
+case'LBYAUTB':return array('loyaute');
+default: return array();}}
+?>

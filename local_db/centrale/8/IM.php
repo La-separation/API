@@ -1,0 +1,40 @@
+<?php
+function gwc_centrale_8_IM($code){switch($code){
+case'IMABIABB':return array('imaginee');
+case'IMABIABA':return array('imaginer');
+case'IMABIABZ':return array('imaginez');
+case'IMBBBILB':return array('imbecile');
+case'IMMATUAB':return array('immature');
+case'IMMBBIAT':return array('immediat');
+case'IMMBABBB':return array('immenses');
+case'IMMBABBA':return array('immerger');
+case'IMMBUBLB':return array('immeuble');
+case'IMMIBABA':return array('immigrer');
+case'IMMIBABB':return array('immigres');
+case'IMMIABAT':return array('imminent');
+case'IMMIBBBA':return array('immiscer');
+case'IMMBBILB':return array('immobile');
+case'IMMBBBAB':return array('immodere');
+case'IMMBATBL':return array('immortel');
+case'IMMBTIVB':return array('immotive');
+case'IMMUABLB':return array('immuable');
+case'IMMUAIBB':return array('immunise');
+case'IMMUAITB':return array('immunite');
+case'IMPLAATB':return array('implante');
+case'IMPLIQUB':return array('implique');
+case'IMPLBABA':return array('implorer');
+case'IMPBATBA':return array('importer');
+case'IMPBATBB':return array('importes');
+case'IMPBATUA':return array('importun');
+case'IMPBBAIT':return array('imposait');
+case'IMPBBAAT':return array('imposant');
+case'IMPBBBBB':return array('imposees');
+case'IMPBBBAT':return array('imposent');
+case'IMPBTBAT':return array('impotent');
+case'IMPABBIB':return array('imprecis');
+case'IMPAIMBA':return array('imprimer');
+case'IMPAIMBB':return array('imprimes');
+case'IMPABPAB':return array('impropre');
+case'IMPUBBAT':return array('impudent');
+default: return array();}}
+?>

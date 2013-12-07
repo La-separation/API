@@ -1,0 +1,42 @@
+<?php
+function gwc_coupable_bas_min_5_ba($code){switch($code){
+case'baaaa':return array('vecue','veste','vetus','video','vides','visee','voici','voies','votee','votes','vouee','voues','voute');
+case'baaoa':return array('vecue','vetus','visas');
+case'baiia':return array('vend','vent','venu','verre','verte','verts','vertu','ville','vins','vint','vitre','vitro','voile','voire','vont','votre');
+case'baiio':return array('vend','venu','verra','vertu','villa');
+case'baiii':return array('vent','vetir','vint','viril','voix','vont');
+case'baiaa':return array('verbe','verse','verso','verte','verts','vertu','vetus','virus','voici','voies','volee','volet','votee','votes','voyou');
+case'baiga':return array('verge','vulgo');
+case'baiao':return array('vertu','voyou');
+case'baiba':return array('verve','volvo');
+case'baaia':return array('veste','veule','vitre','vitro','voile','voire','votre','voulu','voute');
+case'baaii':return array('vetir','veux','vieil','voix');
+case'baiai':return array('vetir','virer','viril','voici','voler','volet','voter');
+case'baaai':return array('vetir','vider','vieil','viser','voici','voter','vouer');
+case'baioa':return array('vetus','virus');
+case'baoia':return array('veule','voulu','voute');
+case'baaba':return array('veuve');
+case'baoba':return array('veuve');
+case'baoii':return array('veux');
+case'baoaa':return array('video','vides','vouee','voues','voute');
+case'baoai':return array('vider','vouer');
+case'baioi':return array('vital');
+case'baaoi':return array('vital');
+case'baiaz':return array('vitez','voyez');
+case'baaaz':return array('vitez');
+case'babaa':return array('vives');
+case'babio':return array('vivra');
+case'babia':return array('vivre');
+case'bagai':return array('vogel');
+case'bagaa':return array('vogue','voyou');
+case'bagoa':return array('vogue');
+case'baigo':return array('volga');
+case'baaio':return array('voulu');
+case'baoio':return array('voulu');
+case'bagaz':return array('voyez');
+case'baqaz':return array('voyez');
+case'baqaa':return array('voyou');
+case'bagao':return array('voyou');
+case'baqao':return array('voyou');
+default: return array();}}
+?>

@@ -1,0 +1,46 @@
+<?php
+function gwc_centrale_5_AA($code){switch($code){
+case'AAABA':return array('aaron');
+case'AABHB':return array('anche','arche');
+case'AABAB':return array('ancre','andre','arbre','arene');
+case'AABBB':return array('anges','anode','races');
+case'AABLB':return array('angle');
+case'AAIMB':return array('anime');
+case'AAABB':return array('annee','arabe','range','rangs','rares');
+case'AAAIB':return array('annie');
+case'AATAA':return array('antan');
+case'AATIA':return array('antin');
+case'AABTB':return array('arete');
+case'AABBT':return array('argot','nabot','ragot');
+case'AAIAB':return array('arias');
+case'AAIBB':return array('aride','raide','raids');
+case'AAMBB':return array('armee','armes','rames');
+case'AAMBA':return array('armer');
+case'AABMB':return array('arome');
+case'AAABT':return array('arret');
+case'AABBA':return array('nager','raser');
+case'AAABY':return array('nancy');
+case'AAPPB':return array('nappe');
+case'AATAL':return array('natal');
+case'AATIF':return array('natif');
+case'AATTB':return array('natte');
+case'AAVAL':return array('naval');
+case'AAVBT':return array('navet');
+case'AAZIB':return array('nazie','nazis');
+case'AABAT':return array('rabat');
+case'AABAA':return array('radar');
+case'AABIA':return array('radin');
+case'AABIB':return array('radio','radis');
+case'AAILB':return array('rails');
+case'AALBA':return array('raler');
+case'AAMPB':return array('rampe');
+case'AABUL':return array('raoul');
+case'AAPBA':return array('raper');
+case'AATBA':return array('rater');
+case'AATBB':return array('rates');
+case'AAVBL':return array('ravel');
+case'AAVIA':return array('ravin','ravir');
+case'AAVIB':return array('ravis');
+case'AAYBA':return array('rayer','rayon');
+default: return array();}}
+?>

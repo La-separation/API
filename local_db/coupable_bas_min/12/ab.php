@@ -1,0 +1,46 @@
+<?php
+function gwc_coupable_bas_min_12_ab($code){switch($code){
+case'aboiaoiiaiia':return array('evaluations');
+case'aboiooiiaiia':return array('evaluations');
+case'aboiaoaiaiia':return array('evaluations');
+case'aboiooaiaiia':return array('evaluations');
+case'aboiaoiaaiia':return array('evaluations');
+case'aboiooiaaiia':return array('evaluations');
+case'aboiaoaaaiia':return array('evaluations');
+case'aboiooaaaiia':return array('evaluations');
+case'aboiiaaaaiii':return array('evanescent');
+case'aboiiaaaaiia':return array('evanescent');
+case'aboiigaiiqaa':return array('evangelique');
+case'aboiigaiaqaa':return array('evangelique');
+case'aboiigaiiqoa':return array('evangelique');
+case'aboiigaiaqoa':return array('evangelique');
+case'abopaioiiaii':return array('evaporation');
+case'abopaioaiaii':return array('evaporation');
+case'abopaioiaaii':return array('evaporation');
+case'abopaioaaaii':return array('evaporation');
+case'abaiiiaoiiia':return array('eventualite');
+case'abaiiaaoiiia':return array('eventualite');
+case'abaiiiooiiia':return array('eventualite');
+case'abaiiaooiiia':return array('eventualite');
+case'abaiiiaoiaia':return array('eventualite');
+case'abaiiaaoiaia':return array('eventualite');
+case'abaiiiooiaia':return array('eventualite');
+case'abaiiaooiaia':return array('eventualite');
+case'abaiiiaoiiaa':return array('eventualite');
+case'abaiiaaoiiaa':return array('eventualite');
+case'abaiiiooiiaa':return array('eventualite');
+case'abaiiaooiiaa':return array('eventualite');
+case'abaiiiaoiaaa':return array('eventualite');
+case'abaiiaaoiaaa':return array('eventualite');
+case'abaiiiooiaaa':return array('eventualite');
+case'abaiiaooiaaa':return array('eventualite');
+case'abaiiiaaiiaa':return array('eventuelles');
+case'abaiiaaaiiaa':return array('eventuelles');
+case'abaiiioaiiaa':return array('eventuelles');
+case'abaiiaoaiiaa':return array('eventuelles');
+case'aboiiaiiiiai':return array('ovationner');
+case'aboaiaiiiiai':return array('ovationner');
+case'aboiaaiiiiai':return array('ovationner');
+case'aboaaaiiiiai':return array('ovationner');
+default: return array();}}
+?>

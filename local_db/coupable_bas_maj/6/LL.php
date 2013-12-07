@@ -1,0 +1,40 @@
+<?php
+function gwc_coupable_bas_maj_6_LL($code){switch($code){
+case'LLOILL':return array('cecile');
+case'LLLILL':return array('cecile');
+case'LLOIIL':return array('cecite','clore','legal');
+case'LLLIIL':return array('cecite','clerc');
+case'LLOLII':return array('ceder','cedex','leger','leser');
+case'LLLLII':return array('celer');
+case'LLLLLO':return array('celles');
+case'LLIIOL':return array('cense','lendl');
+case'LLIIIO':return array('cents','elias','lents');
+case'LLIIOI':return array('cergy','leroy');
+case'LLOOLZ':return array('cessez');
+case'LLIIII':return array('clan','ecrit','elan');
+case'LLLIIO':return array('clerc');
+case'LLOQOL':return array('cloque');
+case'LLOWII':return array('clown');
+case'LLIILL':return array('ecale','echec');
+case'LLIILO':return array('echec','elites');
+case'LLIIOO':return array('echos');
+case'LLLIII':return array('eclat');
+case'LLLOIL':return array('eclope');
+case'LLLOOL':return array('ecluse');
+case'LLOLLO':return array('ecoles');
+case'LLOOOL':return array('ecosse');
+case'LLOOIL':return array('ecoute');
+case'LLIIIL':return array('ecrie','elire','lente','letal');
+case'LLOLIL':return array('ecueil');
+case'LLLVLL':return array('elevee');
+case'LLLVLO':return array('eleves');
+case'LLOOLO':return array('eloges');
+case'LLOOII':return array('lecon');
+case'LLLOII':return array('lecon');
+case'LLQOLL':return array('lequel');
+case'LLOIIO':return array('leurs');
+case'LLVLLO':return array('levees');
+case'LLVLII':return array('lever');
+case'LLVIIL':return array('levre');
+default: return array();}}
+?>

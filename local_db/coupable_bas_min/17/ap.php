@@ -1,0 +1,44 @@
+<?php
+function gwc_coupable_bas_min_17_ap($code){switch($code){
+case'apiiigiaaaaioboia':return array('epingledecravate');
+case'apaiigiaaaaioboia':return array('epingledecravate');
+case'apiiigiaoaaioboia':return array('epingledecravate');
+case'apaiigiaoaaioboia':return array('epingledecravate');
+case'apiiigiaaaaioboaa':return array('epingledecravate');
+case'apaiigiaaaaioboaa':return array('epingledecravate');
+case'apiiigiaoaaioboaa':return array('epingledecravate');
+case'apaiigiaoaaioboaa':return array('epingledecravate');
+case'apaioiiaiiiiaiiaa':return array('operationnelles');
+case'apaioaiaiiiiaiiaa':return array('operationnelles');
+case'apaioiaaiiiiaiiaa':return array('operationnelles');
+case'apaioaaaiiiiaiiaa':return array('operationnelles');
+case'appaiiaiiaiiiaiii':return array('opportunement');
+case'appaiaaiiaiiiaiii':return array('opportunement');
+case'appaiioiiaiiiaiii':return array('opportunement');
+case'appaiaoiiaiiiaiii':return array('opportunement');
+case'appaiiaiiaiiiaiia':return array('opportunement');
+case'appaiaaiiaiiiaiia':return array('opportunement');
+case'appaiioiiaiiiaiia':return array('opportunement');
+case'appaiaoiiaiiiaiia':return array('opportunement');
+case'apaaiiiqaaiiiaiii':return array('specifiquement');
+case'apaaaiiqaaiiiaiii':return array('specifiquement');
+case'apaaiiaqaaiiiaiii':return array('specifiquement');
+case'apaaaiaqaaiiiaiii':return array('specifiquement');
+case'apaaiiiqoaiiiaiii':return array('specifiquement');
+case'apaaaiiqoaiiiaiii':return array('specifiquement');
+case'apaaiiaqoaiiiaiii':return array('specifiquement');
+case'apaaaiaqoaiiiaiii':return array('specifiquement');
+case'apaaiiiqaaiiiaiia':return array('specifiquement');
+case'apaaaiiqaaiiiaiia':return array('specifiquement');
+case'apaaiiaqaaiiiaiia':return array('specifiquement');
+case'apaaaiaqaaiiiaiia':return array('specifiquement');
+case'apaaiiiqoaiiiaiia':return array('specifiquement');
+case'apaaaiiqoaiiiaiia':return array('specifiquement');
+case'apaaiiaqoaiiiaiia':return array('specifiquement');
+case'apaaaiaqoaiiiaiia':return array('specifiquement');
+case'apaiiioiiaiiiaiii':return array('spontanement');
+case'apaiiaoiiaiiiaiii':return array('spontanement');
+case'apaiiioiiaiiiaiia':return array('spontanement');
+case'apaiiaoiiaiiiaiia':return array('spontanement');
+default: return array();}}
+?>

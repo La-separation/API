@@ -1,0 +1,40 @@
+<?php
+function gwc_coupable_haut_min_11_ol($code){switch($code){
+case'olohimioiio':return array('alchimique');
+case'olooolioiio':return array('alcoolique');
+case'oloohoioiio':return array('algebrique');
+case'olimootoioo':return array('alimentaire');
+case'olloooomoot':return array('allegrement','allongement');
+case'olloootiooo':return array('allocations');
+case'ollooiitioo':return array('allocution');
+case'olliimottoo':return array('allumettes');
+case'olliiiiiooo':return array('alluvions');
+case'oltooootioo':return array('altercation');
+case'oliimioiiim':return array('aluminium');
+case'oloodootioo':return array('clandestine','clandestins');
+case'oloooioiomo':return array('classicisme');
+case'oloooioiioo':return array('classiques');
+case'oloiidiooot':return array('claudicant');
+case'oloiiioiilo':return array('clavicule');
+case'oloomolotto':return array('cleamolette');
+case'olooooloioo':return array('cleanglaise');
+case'olomoooooii':return array('clemenceau');
+case'olohoootioo':return array('elaboration');
+case'olootoooloo':return array('electorales');
+case'olootoioioo':return array('electricien');
+case'olootoioito':return array('electricite');
+case'olootoioiio':return array('electrique');
+case'olomootoioo':return array('elementaire');
+case'oloiiotoiio':return array('elevateur');
+case'olimiootioo':return array('elimination');
+case'oloiooomoot':return array('eloignement');
+case'oloholomoot':return array('globalement');
+case'olooioiiooo':return array('glorieuses');
+case'oliimoioiio':return array('olympique');
+case'oloototiooo':return array('plantations');
+case'olootioiioo':return array('plastiques');
+case'oliiooliomo':return array('pluralisme');
+case'oliioolioto':return array('pluraliste');
+case'oliioioiioo':return array('plusieurs');
+default: return array();}}
+?>

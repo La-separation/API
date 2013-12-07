@@ -1,0 +1,43 @@
+<?php
+function gwc_centrale_6_BL($code){switch($code){
+case'BLABUB':return array('blague');
+case'BLAIBB':return array('blaise','glaise');
+case'BLAMBA':return array('blamer','clamer');
+case'BLAABB':return array('blancs','elance','glande');
+case'BLABBA':return array('blason','glacer','glacon');
+case'BLATTB':return array('blatte');
+case'BLBMIA':return array('blemir');
+case'BLBBBB':return array('blesse','eloges');
+case'BLBUBB':return array('bleues','blouse');
+case'BLIABB':return array('blinde');
+case'BLIAIB':return array('blinis');
+case'BLBBUB':return array('blocus');
+case'BLBABB':return array('blonde','clerge');
+case'BLBQUB':return array('bloque','cloque');
+case'BLAIAB':return array('claire','clairs');
+case'BLAQUB':return array('claque');
+case'BLAATB':return array('clarte');
+case'BLABBB':return array('classe');
+case'BLAUBB':return array('claude','clause');
+case'BLIBHB':return array('cliche');
+case'BLIBAT':return array('client');
+case'BLIMAT':return array('climat');
+case'BLIVBA':return array('cliver');
+case'BLBBHB':return array('cloche');
+case'BLBUBA':return array('clouer');
+case'BLAABI':return array('elargi');
+case'BLBVBB':return array('elevee','eleves');
+case'BLBVBA':return array('elever');
+case'BLIMBA':return array('elimer');
+case'BLITBB':return array('elites');
+case'BLUBBA':return array('eluder');
+case'BLAIVB':return array('glaive');
+case'BLAPIA':return array('glapir');
+case'BLIBBB':return array('glisse');
+case'BLBBAL':return array('global');
+case'BLBIAB':return array('gloire');
+case'BLBBBA':return array('gloser');
+case'BLUAAT':return array('gluant');
+case'BLBBAA':return array('slogan');
+default: return array();}}
+?>

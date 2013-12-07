@@ -1,0 +1,40 @@
+<?php
+function gwc_coupable_haut_maj_7_IM($code){switch($code){
+case'IMAAIAA':return array('imagine');
+case'IMACIAA':return array('imagine');
+case'IMAAIAC':return array('imagine');
+case'IMACIAC':return array('imagine');
+case'IMMAAAA':return array('immense','immonde');
+case'IMMCAAA':return array('immense');
+case'IMMAACA':return array('immense');
+case'IMMCACA':return array('immense');
+case'IMMAAAC':return array('immense','immonde');
+case'IMMCAAC':return array('immense');
+case'IMMAACC':return array('immense');
+case'IMMCACC':return array('immense');
+case'IMMIAAA':return array('immigre');
+case'IMMICAA':return array('immigre');
+case'IMMIAAC':return array('immigre');
+case'IMMICAC':return array('immigre');
+case'IMMAIAA':return array('immoler');
+case'IMMAICA':return array('immoler');
+case'IMMAAAI':return array('immoral');
+case'IMAAAAA':return array('impasse','imposee','imposer','imposes');
+case'IMAACAA':return array('impasse','imposee','imposer','imposes');
+case'IMAAACA':return array('impasse','imposee','imposer','imposes');
+case'IMAACCA':return array('impasse','imposee','imposer','imposes');
+case'IMAAAAC':return array('impasse','imposee','imposes');
+case'IMAACAC':return array('impasse','imposee','imposes');
+case'IMAAACC':return array('impasse','imposee','imposes');
+case'IMAACCC':return array('impasse','imposee','imposes');
+case'IMAIATA':return array('impiete');
+case'IMAICTA':return array('impiete');
+case'IMAIATC':return array('impiete');
+case'IMAICTC':return array('impiete');
+case'IMAAATA':return array('importe');
+case'IMAAATC':return array('importe');
+case'IMAAIMA':return array('imprime');
+case'IMAAIMC':return array('imprime');
+case'IMAIIAI':return array('impuni');
+default: return array();}}
+?>

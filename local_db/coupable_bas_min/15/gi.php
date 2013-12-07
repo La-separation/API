@@ -1,0 +1,40 @@
+<?php
+function gwc_coupable_bas_min_15_gi($code){switch($code){
+case'gioiiiiiioiiaoi':return array('grammatical');
+case'gioiiiiiioaiaoi':return array('grammatical');
+case'gioiiiiiioiaaoi':return array('grammatical');
+case'gioiiiiiioaaaoi':return array('grammatical');
+case'gioiaiiaiiiaiii':return array('gratuitement');
+case'gioaaiiaiiiaiii':return array('gratuitement');
+case'gioioiiaiiiaiii':return array('gratuitement');
+case'gioaoiiaiiiaiii':return array('gratuitement');
+case'gioiaaiaiiiaiii':return array('gratuitement');
+case'gioaaaiaiiiaiii':return array('gratuitement');
+case'gioioaiaiiiaiii':return array('gratuitement');
+case'gioaoaiaiiiaiii':return array('gratuitement');
+case'gioiaiaaiiiaiii':return array('gratuitement');
+case'gioaaiaaiiiaiii':return array('gratuitement');
+case'gioioiaaiiiaiii':return array('gratuitement');
+case'gioaoiaaiiiaiii':return array('gratuitement');
+case'gioiaaaaiiiaiii':return array('gratuitement');
+case'gioaaaaaiiiaiii':return array('gratuitement');
+case'gioioaaaiiiaiii':return array('gratuitement');
+case'gioaoaaaiiiaiii':return array('gratuitement');
+case'gioiaiiaiiiaiia':return array('gratuitement');
+case'gioaaiiaiiiaiia':return array('gratuitement');
+case'gioioiiaiiiaiia':return array('gratuitement');
+case'gioaoiiaiiiaiia':return array('gratuitement');
+case'gioiaaiaiiiaiia':return array('gratuitement');
+case'gioaaaiaiiiaiia':return array('gratuitement');
+case'gioioaiaiiiaiia':return array('gratuitement');
+case'gioaoaiaiiiaiia':return array('gratuitement');
+case'gioiaiaaiiiaiia':return array('gratuitement');
+case'gioaaiaaiiiaiia':return array('gratuitement');
+case'gioioiaaiiiaiia':return array('gratuitement');
+case'gioaoiaaiiiaiia':return array('gratuitement');
+case'gioiaaaaiiiaiia':return array('gratuitement');
+case'gioaaaaaiiiaiia':return array('gratuitement');
+case'gioioaaaiiiaiia':return array('gratuitement');
+case'gioaoaaaiiiaiia':return array('gratuitement');
+default: return array();}}
+?>

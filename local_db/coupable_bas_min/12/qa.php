@@ -1,0 +1,46 @@
+<?php
+function gwc_coupable_bas_min_12_qa($code){switch($code){
+case'qaoiiiiioiii':return array('quantitatif');
+case'qaoiiaiioiii':return array('quantitatif');
+case'qaoiiiaioiii':return array('quantitatif');
+case'qaoiiaaioiii':return array('quantitatif');
+case'qaoiiiiaoiii':return array('quantitatif');
+case'qaoiiaiaoiii':return array('quantitatif');
+case'qaoiiiaaoiii':return array('quantitatif');
+case'qaoiiaaaoiii':return array('quantitatif');
+case'qaoiiiiioaii':return array('quantitatif');
+case'qaoiiaiioaii':return array('quantitatif');
+case'qaoiiiaioaii':return array('quantitatif');
+case'qaoiiaaioaii':return array('quantitatif');
+case'qaoiiiiaoaii':return array('quantitatif');
+case'qaoiiaiaoaii':return array('quantitatif');
+case'qaoiiiaaoaii':return array('quantitatif');
+case'qaoiiaaaoaii':return array('quantitatif');
+case'qaoiiiiioiai':return array('quantitatif');
+case'qaoiiaiioiai':return array('quantitatif');
+case'qaoiiiaioiai':return array('quantitatif');
+case'qaoiiaaioiai':return array('quantitatif');
+case'qaoiiiiaoiai':return array('quantitatif');
+case'qaoiiaiaoiai':return array('quantitatif');
+case'qaoiiiaaoiai':return array('quantitatif');
+case'qaoiiaaaoiai':return array('quantitatif');
+case'qaoiiiiioaai':return array('quantitatif');
+case'qaoiiaiioaai':return array('quantitatif');
+case'qaoiiiaioaai':return array('quantitatif');
+case'qaoiiaaioaai':return array('quantitatif');
+case'qaoiiiiaoaai':return array('quantitatif');
+case'qaoiiaiaoaai':return array('quantitatif');
+case'qaoiiiaaoaai':return array('quantitatif');
+case'qaoiiaaaoaai':return array('quantitatif');
+case'qaoaiiiiaiii':return array('quasiment');
+case'qaoaaiiiaiii':return array('quasiment');
+case'qaoaiiiiaiia':return array('quasiment');
+case'qaoaaiiiaiia':return array('quasiment');
+case'qaaiiioiiaai':return array('quemander');
+case'qaaiiioiioai':return array('quemander');
+case'qaiiiziaiiia':return array('quinzieme');
+case'qaaiiziaiiia':return array('quinzieme');
+case'qaiiizaaiiia':return array('quinzieme');
+case'qaaiizaaiiia':return array('quinzieme');
+default: return array();}}
+?>

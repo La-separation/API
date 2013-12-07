@@ -1,0 +1,40 @@
+<?php
+function gwc_coupable_haut_maj_16_CM($code){switch($code){
+case'CMAAAIIAIIAMAIIT':return array('embranchement');
+case'CMAAAIICIIAMAIIT':return array('embranchement');
+case'CMAAAIIAIICMAIIT':return array('embranchement');
+case'CMAAAIICIICMAIIT':return array('embranchement');
+case'CMAAAIIAIIAMCIIT':return array('embranchement');
+case'CMAAAIICIIAMCIIT':return array('embranchement');
+case'CMAAAIIAIICMCIIT':return array('embranchement');
+case'CMAAAIICIICMCIIT':return array('embranchement');
+case'CMAAAIIIIIAMAIIT':return array('embrouillement');
+case'CMAAAIIIIICMAIIT':return array('embrouillement');
+case'CMAAAIIIIIAMCIIT':return array('embrouillement');
+case'CMAAAIIIIICMCIIT':return array('embrouillement');
+case'CMAAIAAIIIIAMAAT':return array('emprisonnement');
+case'CMAAICAIIIIAMAAT':return array('emprisonnement');
+case'CMAAIAAIIIICMAAT':return array('emprisonnement');
+case'CMAAICAIIIICMAAT':return array('emprisonnement');
+case'CMAAIAAIIIIAMCAT':return array('emprisonnement');
+case'CMAAICAIIIIAMCAT':return array('emprisonnement');
+case'CMAAIAAIIIICMCAT':return array('emprisonnement');
+case'CMAAICAIIIICMCAT':return array('emprisonnement');
+case'CMAAIAAIIAAMAIIT':return array('emprisonnement');
+case'CMAAICAIIAAMAIIT':return array('emprisonnement');
+case'CMAAIAAAIIAMAIIT':return array('emprisonnement');
+case'CMAAICAAIIAMAIIT':return array('emprisonnement');
+case'CMAAIAAIIACMAIIT':return array('emprisonnement');
+case'CMAAICAIIACMAIIT':return array('emprisonnement');
+case'CMAAIAAAIICMAIIT':return array('emprisonnement');
+case'CMAAICAAIICMAIIT':return array('emprisonnement');
+case'CMAAIAAIIAAMCIIT':return array('emprisonnement');
+case'CMAAICAIIAAMCIIT':return array('emprisonnement');
+case'CMAAIAAAIIAMCIIT':return array('emprisonnement');
+case'CMAAICAAIIAMCIIT':return array('emprisonnement');
+case'CMAAIAAIIACMCIIT':return array('emprisonnement');
+case'CMAAICAIIACMCIIT':return array('emprisonnement');
+case'CMAAIAAAIICMCIIT':return array('emprisonnement');
+case'CMAAICAAIICMCIIT':return array('emprisonnement');
+default: return array();}}
+?>

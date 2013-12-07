@@ -1,0 +1,45 @@
+<?php
+function gwc_centrale_5_PA($code){switch($code){
+case'PABLB':return array('pablo');
+case'PABTB':return array('pacte','prete','prets','prote');
+case'PABBB':return array('pages','passe','probe','prose');
+case'PAIBA':return array('paien','prier');
+case'PAIAB':return array('paire','pairs');
+case'PALIA':return array('palir');
+case'PALIB':return array('palis');
+case'PALMB':return array('palme');
+case'PAAAB':return array('panne');
+case'PAABB':return array('parce','parcs');
+case'PAABA':return array('parer');
+case'PAAIB':return array('paris');
+case'PAALB':return array('parle');
+case'PAAMI':return array('parmi');
+case'PAABI':return array('paroi');
+case'PAATI':return array('parti');
+case'PAATB':return array('parts');
+case'PAAUB':return array('parue','parus');
+case'PAAUT':return array('parut');
+case'PABBA':return array('passa');
+case'PATBB':return array('patee','pates');
+case'PATHB':return array('pathe');
+case'PATIA':return array('patir');
+case'PATAB':return array('patre');
+case'PATTB':return array('patte');
+case'PAUMB':return array('paume');
+case'PAUBB':return array('pause');
+case'PAYBB':return array('payee','payes');
+case'PAYBA':return array('payer');
+case'PAYBT':return array('payot');
+case'PABUB':return array('pneus','proue');
+case'PABAB':return array('prend','prone');
+case'PABUH':return array('preux');
+case'PABVU':return array('prevu');
+case'PAIBB':return array('pries','prise');
+case'PAIMB':return array('prime');
+case'PAIVB':return array('prive');
+case'PABIB':return array('proie');
+case'PABMU':return array('promu');
+case'PABBT':return array('prost');
+case'PAUAB':return array('prune');
+default: return array();}}
+?>

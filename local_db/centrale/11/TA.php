@@ -1,0 +1,39 @@
+<?php
+function gwc_centrale_11_TA($code){switch($code){
+case'TAMBBUAIABA':return array('tambouriner');
+case'TAABIVBMBAT':return array('tardivement');
+case'TAUABMABHIB':return array('tauromachie');
+case'TAABABBBAIB':return array('tracasserie');
+case'TAABTATIBAB':return array('tractations');
+case'TAABUBTBUAB':return array('traducteurs');
+case'TAABUBTIBAB':return array('traductions');
+case'TAABUBTAIBB':return array('traductrice');
+case'TAAFIQUAATB':return array('trafiquants');
+case'TAAITBMBATB':return array('traitements');
+case'TAAAQUILLBB':return array('tranquilles');
+case'TAAABABTIBA':return array('transaction');
+case'TAAABFBAMBB':return array('transformee','transformes');
+case'TAAABFBAMBA':return array('transformer');
+case'TAAABFUBIBA':return array('transfusion');
+case'TAAABITBIAB':return array('transitoire');
+case'TAAABLUBIBB':return array('translucide');
+case'TAAABMBTTAB':return array('transmettre');
+case'TAAABPAABAT':return array('transparent');
+case'TAAABPBABBA':return array('transpercer');
+case'TAAABPIAAAT':return array('transpirant');
+case'TAAABPBATBA':return array('transporter');
+case'TAAABPBATBB':return array('transportes');
+case'TAAUMATIBMB':return array('traumatisme');
+case'TAAVAILLAIT':return array('travaillait');
+case'TAAVAILLAAT':return array('travaillant');
+case'TAAVAILLBAT':return array('travaillent');
+case'TAAVAILLBUA':return array('travailleur');
+case'TAAVAILLBAB':return array('travaillons');
+case'TABMBLBMBAT':return array('tremblement');
+case'TABBBAILLIA':return array('tressaillir');
+case'TABIBQUAATB':return array('troisquarts');
+case'TABUBLBFBTB':return array('troublefete');
+case'TABUILLAABB':return array('trouillarde');
+case'TABUVAILLBB':return array('trouvailles');
+default: return array();}}
+?>

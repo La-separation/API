@@ -1,0 +1,41 @@
+<?php
+function gwc_centrale_7_LA($code){switch($code){
+case'LABBABA':return array('lacerer');
+case'LABHBTB':return array('lachete');
+case'LABBBTB':return array('lacoste');
+case'LABABIH':return array('lacroix');
+case'LABUABB':return array('lacunes');
+case'LAFFBAT':return array('laffont');
+case'LAIBITB':return array('laicite');
+case'LAIBBUA':return array('laideur');
+case'LAIBABL':return array('laignel');
+case'LAIABUH':return array('laineux');
+case'LAIAIBA':return array('lainier');
+case'LAIQUBB':return array('laiques');
+case'LAIBBBB':return array('laissee','laisses');
+case'LAIBBBA':return array('laisser');
+case'LAIBBBZ':return array('laissez');
+case'LAITBUH':return array('laiteux');
+case'LAITIBA':return array('laitier');
+case'LALBABB':return array('lalonde');
+case'LAMBBAT':return array('lambert');
+case'LAMBAIB':return array('lambris');
+case'LAMBLLB':return array('lamelle');
+case'LAMPYAB':return array('lampyre');
+case'LAABBBB':return array('lancees');
+case'LAABBAT':return array('lancent');
+case'LAABBUA':return array('lanceur','largeur');
+case'LAABABB':return array('langage');
+case'LAABUBB':return array('langues');
+case'LAABUIA':return array('languir');
+case'LAAIBAB':return array('laniere');
+case'LAQUAIB':return array('laquais');
+case'LABBAAT':return array('lassant');
+case'LATBAAL':return array('lateral');
+case'LAUABAT':return array('laureat','laurent');
+case'LAVBTTB':return array('lavette');
+case'LAHATIF':return array('laxatif');
+case'LAHIBMB':return array('laxisme');
+case'LAYBTTB':return array('layette');
+default: return array();}}
+?>
