@@ -100,11 +100,11 @@
 			foreach($codes as $code)
 			{
 				$possibilities = getCodeWords($code, $police);
-				
+
 				$xml .= '<code value="' . $code . '">';
 					foreach($possibilities as $p)
 					{
-						// getWordCasse temporaire
+						// getWordCasse temporaire définitif
 						$xml .= '<word value="' . getWordCasse($p, $polices_casse[$i]) . '"></word>';
 					}
 				$xml .= '</code>';
